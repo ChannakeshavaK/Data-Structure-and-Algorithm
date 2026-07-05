@@ -22,12 +22,14 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
