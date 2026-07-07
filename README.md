@@ -20,6 +20,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0001-two-sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
@@ -31,6 +32,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
@@ -45,6 +47,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
