@@ -19,6 +19,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | ------- |
 | [0001-two-sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
@@ -93,4 +95,8 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
