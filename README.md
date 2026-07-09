@@ -9,6 +9,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0001-two-sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -23,6 +24,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
@@ -102,4 +104,8 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
