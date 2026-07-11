@@ -1,46 +1,56 @@
-class Solution {
-    public int firstMissingPositive(int[] nums) {
+class Solution
+ {
+    public int firstMissingPositive(int[] nums) 
+    {
         int n = nums.length;
         int contains = 0;
 
-        // Check if 1 is present
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 1) {
+        for (int i = 0; i < n; i++) 
+        {
+            if (nums[i] == 1) 
+            {
                 contains++;
                 break;
             }
         }
 
-        if (contains == 0) {
+        if (contains == 0) 
+        {
             return 1;
         }
 
-        // Replace invalid numbers with 1
-        for (int i = 0; i < n; i++) {
-            if (nums[i] <= 0 || nums[i] > n) {
+        for (int i = 0; i < n; i++) 
+        {
+            if (nums[i] <= 0 || nums[i] > n) 
+            {
                 nums[i] = 1;
             }
         }
 
-        // Mark visited indices
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) 
+        {
             int a = Math.abs(nums[i]);
 
-            if (a == n) {
+            if (a == n)
+            {
                 nums[0] = -Math.abs(nums[0]);
-            } else {
+            } 
+            else 
+            {
                 nums[a] = -Math.abs(nums[a]);
             }
         }
 
-        // Find first positive index
-        for (int i = 1; i < n; i++) {
-            if (nums[i] > 0) {
+        for (int i = 1; i < n; i++)
+        {
+            if (nums[i] > 0) 
+            {
                 return i;
             }
         }
 
-        if (nums[0] > 0) {
+        if (nums[0] > 0) 
+        {
             return n;
         }
 
