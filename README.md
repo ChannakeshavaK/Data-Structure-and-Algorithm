@@ -7,6 +7,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
@@ -22,6 +23,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0001-two-sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
