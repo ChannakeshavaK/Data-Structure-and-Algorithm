@@ -41,6 +41,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
@@ -93,6 +94,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
