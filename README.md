@@ -7,6 +7,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
@@ -95,6 +97,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
