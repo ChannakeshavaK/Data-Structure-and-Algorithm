@@ -14,6 +14,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -30,6 +31,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
@@ -54,6 +56,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | ------- |
 | [0015-3sum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -73,6 +76,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -86,6 +90,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -126,4 +131,8 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
