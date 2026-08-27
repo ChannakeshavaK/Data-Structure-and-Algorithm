@@ -118,6 +118,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
 ## Union-Find
 |  |
@@ -135,4 +136,12 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
