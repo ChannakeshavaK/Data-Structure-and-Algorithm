@@ -140,8 +140,10 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
