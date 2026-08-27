@@ -109,6 +109,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0141-linked-list-cycle](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -144,6 +145,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0002-add-two-numbers](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
