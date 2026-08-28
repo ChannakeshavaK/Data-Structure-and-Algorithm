@@ -21,6 +21,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0238-product-of-array-except-self](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0953-verifying-an-alien-dictionary) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0242-valid-anagram](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0953-verifying-an-alien-dictionary) |
 ## String
@@ -164,6 +166,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0020-valid-parentheses](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -172,4 +175,8 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
