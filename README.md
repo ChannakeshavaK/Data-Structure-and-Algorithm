@@ -160,8 +160,13 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
