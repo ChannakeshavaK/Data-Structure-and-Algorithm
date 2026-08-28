@@ -13,6 +13,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0217-contains-duplicate) |
@@ -124,6 +125,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | ------- |
 | [0002-add-two-numbers](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Union-Find
 |  |
 | ------- |
@@ -160,6 +162,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
