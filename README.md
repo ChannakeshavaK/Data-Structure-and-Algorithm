@@ -23,6 +23,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | [0347-top-k-frequent-elements](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0953-verifying-an-alien-dictionary) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -183,4 +185,8 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
