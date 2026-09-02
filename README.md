@@ -189,4 +189,20 @@ My DSA solutions from NeetCode 150, Striver A2Z, LeetCode, and interview practic
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ChannakeshavaK/Data-Structure-and-Algorithm/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
